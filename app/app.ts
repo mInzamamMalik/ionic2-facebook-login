@@ -46,9 +46,9 @@ class MyApp {
 
 ionicBootstrap(MyApp, [AuthProvider, FIREBASE_PROVIDERS,
   defaultFirebase({
-    apiKey: "AIzaSyDcbsUEReGm_dlijVXC1sMCcqKpCsXt0nQ",
-    authDomain: "ionic2-angularfire-login-14ea3.firebaseapp.com",
-    databaseURL: "https://ionic2-angularfire-login-14ea3.firebaseio.com",
-    storageBucket: "ionic2-angularfire-login-14ea3.appspot.com",
+    apiKey: "AIzaSyDlWcfovPyG0u0zULeT01xZkiP330-C8TA",
+    authDomain: "ionic2-918c4.firebaseapp.com",
+    databaseURL: "https://ionic2-918c4.firebaseio.com",
+    storageBucket: "ionic2-918c4.appspot.com",
   })], {
 });
